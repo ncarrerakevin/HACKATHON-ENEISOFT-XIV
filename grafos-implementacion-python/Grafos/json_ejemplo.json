@@ -1,0 +1,333 @@
+{
+    "records": [
+        {
+            "compiledRelease": {
+                "tag": [
+                    "compiled"
+                ],
+                "id": "ocds-dgv273-seacev3-2024-424-65-2024-11-07T10:14:17.756619-05:00",
+                "date": "2024-11-07T10:14:17.756604-05:00",
+                "ocid": "ocds-dgv273-seacev3-2024-424-65",
+                "publishedDate": "2024-11-07T10:14:17.756625-05:00",
+                "initiationType": "tender",
+                "buyer": {
+                    "id": "PE-CONSUCODE-424",
+                    "name": "MUNICIPALIDAD DISTRITAL DE ALTO SELVA ALEGRE"
+                },
+                "planning": {
+                    "budget": {
+                        "description": "Fondos P\u00fablicos"
+                    }
+                },
+                "tender": {
+                    "id": "1067986",
+                    "title": "AS-SM-57-2024-MDASA-CS-1",
+                    "description": "CONTRATACI\u00d3N DEL SERVICIO DE CONSULTOR\u00cdA PARA EL ESTUDIO DE PRE INVERSION BAJO EL NOMBRE REFERENCIAL \u00bfCREACION DEL SERVICIO DE AGUA POTABLE URBANO Y CREACION DEL SERVICIO DE ALCANTARILLADO EN EL ASENTAMIENTO HUMANO VILLA CONFRATERNIDAD ZONA B Y C DEL DISTRITO DE ALTO SELVA ALEGRE DE LA PROVINCIA DE AREQUIPA DEL DEPARTAMENTO DE AREQUIPA\u00bf",
+                    "procuringEntity": {
+                        "id": "PE-CONSUCODE-424",
+                        "name": "MUNICIPALIDAD DISTRITAL DE ALTO SELVA ALEGRE"
+                    },
+                    "datePublished": "2024-11-06T23:56:00-05:00",
+                    "procurementMethod": "open",
+                    "procurementMethodDetails": "Adjudicaci\u00f3n Simplificada",
+                    "mainProcurementCategory": "services",
+                    "additionalProcurementCategories": [
+                        "services"
+                    ],
+                    "value": {
+                        "amount": 0.0,
+                        "currency": "PEN",
+                        "currencyName": "Soles",
+                        "amount_PEN": 0.0
+                    },
+                    "tenderPeriod": {
+                        "startDate": "2024-11-06T00:00:00-05:00",
+                        "endDate": "2024-11-06T00:00:00-05:00"
+                    },
+                    "enquiryPeriod": {
+                        "startDate": "2024-11-07T00:01:00-05:00",
+                        "endDate": "2024-11-08T23:59:00-05:00",
+                        "durationInDays": 1
+                    },
+                    "items": [
+                        {
+                            "id": "20861510",
+                            "position": "1",
+                            "description": "CONTRATACI\u00d3N DEL SERVICIO DE CONSULTOR\u00cdA PARA EL ESTUDIO DE PRE INVERSION BAJO EL NOMBRE REFERENCIAL \u00bfCREACION DEL SERVICIO DE AGUA POTABLE URBANO Y CREACION DEL SERVICIO DE ALCANTARILLADO EN EL ASENTAMIENTO HUMANO VILLA CONFRATERNIDAD ZONA B Y C DEL DISTRITO DE ALTO SELVA ALEGRE DE LA PROVINCIA DE AREQUIPA DEL DEPARTAMENTO DE AREQUIPA\u00bf",
+                            "statusDetails": "CONVOCADO",
+                            "status": "active",
+                            "classification": {
+                                "id": "8010160100254983",
+                                "description": "CONSULTORIA PARA FORMULACION DE PAUTA METODOLOGICA DE ESTUDIOS DE PREINVERSION DE PROYECTOS DE INVERSION PUBLICA",
+                                "scheme": "CUBSO"
+                            },
+                            "additionalClassifications": [
+                                {
+                                    "id": "80101601",
+                                    "description": "Estudios de factibilidad o evaluaci\u00f3n de ideas de proyectos",
+                                    "scheme": "UNSPSC"
+                                }
+                            ],
+                            "quantity": 1.0,
+                            "totalValue": {
+                                "amount": 0.0,
+                                "currency": "PEN",
+                                "currencyName": "Soles"
+                            },
+                            "unit": {
+                                "id": "36",
+                                "name": "Servicio",
+                                "scheme": "PE-SEACE3-UnidadMedida"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "24831474985326034",
+                            "url": "https://prod1.seace.gob.pe/SeaceWeb-PRO/SdescargarArchivoAlfresco?fileCode=a8412bb1-4adf-444c-bb95-7c77046cf120",
+                            "datePublished": "2024-11-06T23:56:00-05:00",
+                            "format": "pdf",
+                            "documentType": "biddingDocuments",
+                            "title": "Bases Administrativas",
+                            "language": "es"
+                        },
+                        {
+                            "id": "24831474985326035",
+                            "url": "https://prod1.seace.gob.pe/SeaceWeb-PRO/SdescargarArchivoAlfresco?fileCode=aa8a99fb-5c52-4edc-9c0c-3887335fffdb",
+                            "datePublished": "2024-11-06T23:56:00-05:00",
+                            "format": "pdf",
+                            "documentType": "biddingDocuments",
+                            "title": "Resumen ejecutivo",
+                            "language": "es"
+                        }
+                    ],
+                    "hasTenderInformationProtectedByLaw": true
+                },
+                "parties": [
+                    {
+                        "id": "PE-CONSUCODE-424",
+                        "name": "MUNICIPALIDAD DISTRITAL DE ALTO SELVA ALEGRE",
+                        "identifier": {
+                            "id": "424",
+                            "scheme": "PE-CONSUCODE",
+                            "legalName": "MUNICIPALIDAD DISTRITAL DE ALTO SELVA ALEGRE"
+                        },
+                        "additionalIdentifiers": [
+                            {
+                                "id": "20311886879",
+                                "scheme": "PE-RUC",
+                                "legalName": "MUNICIPALIDAD DISTRITAL DE ALTO SELVA ALEGRE"
+                            }
+                        ],
+                        "address": {
+                            "streetAddress": "ESQ. AV. OBRERA CON CALLE JOSE OLAYA S/N",
+                            "locality": "ALTO SELVA ALEGRE",
+                            "region": "AREQUIPA",
+                            "department": "AREQUIPA",
+                            "countryName": "PERU"
+                        },
+                        "contactPoint": {
+                            "telephone": "0"
+                        },
+                        "roles": [
+                            "buyer",
+                            "procuringEntity"
+                        ]
+                    }
+                ],
+                "sources": [
+                    {
+                        "id": "seace_v3",
+                        "name": "Sistema Electr\u00f3nico de Contrataciones del Estado - Versi\u00f3n 3",
+                        "url": "https://prodapp2.seace.gob.pe/seacebus-uiwd-pub/buscadorPublico/buscadorPublico.xhtml"
+                    }
+                ],
+                "dataSegmentation": {
+                    "id": "2024-11",
+                    "criteria": [
+                        "a\u00f1oInicioConvocatoria",
+                        "mesInicioConvocatoria"
+                    ]
+                }
+            },
+            "ocid": "ocds-dgv273-seacev3-2024-424-65",
+            "releases": [
+                {
+                    "url": "https://contratacionesabiertas.osce.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-424-65-2024-11-07T10:14:17.756619-05:00",
+                    "date": "2024-11-07T10:14:17.756604-05:00",
+                    "tag": [
+                        "planning",
+                        "tender"
+                    ],
+                    "details": {
+                        "id": "ocds-dgv273-seacev3-2024-424-65-2024-11-07T10:14:17.756619-05:00",
+                        "tender": {
+                            "id": "1067986",
+                            "title": "AS-SM-57-2024-MDASA-CS-1"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "compiledRelease": {
+                "tag": [
+                    "compiled"
+                ],
+                "id": "ocds-dgv273-seacev3-2024-1660-2-2024-11-07T10:15:06.357570-05:00",
+                "date": "2024-11-07T10:15:06.357556-05:00",
+                "ocid": "ocds-dgv273-seacev3-2024-1660-2",
+                "publishedDate": "2024-11-07T10:15:06.357576-05:00",
+                "initiationType": "tender",
+                "buyer": {
+                    "id": "PE-CONSUCODE-1660",
+                    "name": "MUNICIPALIDAD DISTRITAL DE SAN ANTONIO - PUNO"
+                },
+                "planning": {
+                    "budget": {
+                        "description": "Fondos P\u00fablicos",
+                        "project": "CREACION DEL SERVICIO DE TRANSITABILIDAD VIAL INTERURBANA EN LOS PUENTES DEL RIO UTURUNCANE Y SAN ANTONIO  DEL   DISTRITO DE SAN ANTONIO DE LA PROVINCIA DE PUNO DEL DEPARTAMENTO DE PUNO",
+                        "projectID": "2607165"
+                    }
+                },
+                "tender": {
+                    "id": "1058276",
+                    "title": "AS-SM-2-2024-MDSA-CS-1",
+                    "description": "ADQUISICION DE ELEMENTOS Y ACCESORIOS BAILEY \"CREACION DEL SERVICIO DE TRANSITABILIDAD VIAL INTERURBANA EN LOS PUENTES DEL RIO UTURUNCANE Y SAN ANTONIO DEL DISTRITO DE SAN ANTONIO- PUNO-PUNO\"",
+                    "procuringEntity": {
+                        "id": "PE-CONSUCODE-1660",
+                        "name": "MUNICIPALIDAD DISTRITAL DE SAN ANTONIO - PUNO"
+                    },
+                    "datePublished": "2024-11-06T18:09:00-05:00",
+                    "procurementMethod": "open",
+                    "procurementMethodDetails": "Adjudicaci\u00f3n Simplificada",
+                    "mainProcurementCategory": "goods",
+                    "additionalProcurementCategories": [
+                        "goods"
+                    ],
+                    "value": {
+                        "amount": 0.0,
+                        "currency": "PEN",
+                        "currencyName": "Soles",
+                        "amount_PEN": 0.0
+                    },
+                    "tenderPeriod": {
+                        "startDate": "2024-11-06T00:00:00-05:00",
+                        "endDate": "2024-11-06T00:00:00-05:00"
+                    },
+                    "enquiryPeriod": {
+                        "startDate": "2024-11-07T00:01:00-05:00",
+                        "endDate": "2024-11-08T23:59:00-05:00",
+                        "durationInDays": 1
+                    },
+                    "items": [
+                        {
+                            "id": "20832349",
+                            "position": "12",
+                            "description": "ADQUISICION DE ELEMENTOS Y ACCESORIO DE PUENTE BAILEY",
+                            "statusDetails": "CONVOCADO",
+                            "status": "active",
+                            "quantity": 1.0,
+                            "totalValue": {
+                                "amount": 0.0,
+                                "currency": "PEN",
+                                "currencyName": "Soles"
+                            },
+                            "unit": {
+                                "id": "40",
+                                "name": "Unidad",
+                                "scheme": "PE-SEACE3-UnidadMedida"
+                            }
+                        }
+                    ],
+                    "documents": [
+                        {
+                            "id": "24831474985325069",
+                            "url": "https://prod1.seace.gob.pe/SeaceWeb-PRO/SdescargarArchivoAlfresco?fileCode=05f95949-9f03-40cf-9ac9-7b4ef8327640",
+                            "datePublished": "2024-11-06T18:09:00-05:00",
+                            "format": "pdf",
+                            "documentType": "biddingDocuments",
+                            "title": "Bases Administrativas",
+                            "language": "es"
+                        },
+                        {
+                            "id": "24831474985325070",
+                            "url": "https://prod1.seace.gob.pe/SeaceWeb-PRO/SdescargarArchivoAlfresco?fileCode=4ea675db-6cfe-41ef-bd38-d85885d768a8",
+                            "datePublished": "2024-11-06T18:09:00-05:00",
+                            "format": "pdf",
+                            "documentType": "biddingDocuments",
+                            "title": "Resumen ejecutivo",
+                            "language": "es"
+                        }
+                    ],
+                    "hasTenderInformationProtectedByLaw": true
+                },
+                "parties": [
+                    {
+                        "id": "PE-CONSUCODE-1660",
+                        "name": "MUNICIPALIDAD DISTRITAL DE SAN ANTONIO - PUNO",
+                        "identifier": {
+                            "id": "1660",
+                            "scheme": "PE-CONSUCODE",
+                            "legalName": "MUNICIPALIDAD DISTRITAL DE SAN ANTONIO - PUNO"
+                        },
+                        "additionalIdentifiers": [
+                            {
+                                "id": "20165191383",
+                                "scheme": "PE-RUC",
+                                "legalName": "MUNICIPALIDAD DISTRITAL DE SAN ANTONIO - PUNO"
+                            }
+                        ],
+                        "address": {
+                            "streetAddress": "PLAZA DE ARMAS S/N SAN ANTONIO PUNO PUNO",
+                            "locality": "PUNO",
+                            "region": "PUNO",
+                            "department": "PUNO",
+                            "countryName": "PERU"
+                        },
+                        "contactPoint": {
+                            "telephone": "99536991",
+                            "url": "https://WWW.MUNISANTONIOPUNO.GOB.PE"
+                        },
+                        "roles": [
+                            "buyer",
+                            "procuringEntity"
+                        ]
+                    }
+                ],
+                "sources": [
+                    {
+                        "id": "seace_v3",
+                        "name": "Sistema Electr\u00f3nico de Contrataciones del Estado - Versi\u00f3n 3",
+                        "url": "https://prodapp2.seace.gob.pe/seacebus-uiwd-pub/buscadorPublico/buscadorPublico.xhtml"
+                    }
+                ],
+                "dataSegmentation": {
+                    "id": "2024-11",
+                    "criteria": [
+                        "a\u00f1oInicioConvocatoria",
+                        "mesInicioConvocatoria"
+                    ]
+                }
+            },
+            "ocid": "ocds-dgv273-seacev3-2024-1660-2",
+            "releases": [
+                {
+                    "url": "https://contratacionesabiertas.osce.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-1660-2-2024-11-07T10:15:06.357570-05:00",
+                    "date": "2024-11-07T10:15:06.357556-05:00",
+                    "tag": [
+                        "planning",
+                        "tender"
+                    ],
+                    "details": {
+                        "id": "ocds-dgv273-seacev3-2024-1660-2-2024-11-07T10:15:06.357570-05:00",
+                        "tender": {
+                            "id": "1058276",
+                            "title": "AS-SM-2-2024-MDSA-CS-1"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
