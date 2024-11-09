@@ -6,7 +6,6 @@ class Neo4jLoader:
     def __init__(self, uri, username, password):
         self.driver = GraphDatabase.driver(uri, auth=(username, password))
 
-
     def close(self):
         self.driver.close()
 
