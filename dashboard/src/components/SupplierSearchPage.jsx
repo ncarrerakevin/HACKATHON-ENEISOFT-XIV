@@ -145,6 +145,13 @@ const SupplierSearchPage = () => {
                                 </CardHeader>
                                 <CardContent className="pt-6">
                                     <MetricCard
+                                        icon={Users}
+                                        title="Nombre"
+                                        value={supplier.name}
+                                        bgColor="bg-blue-50"
+                                        textColor="text-blue-700"
+                                    />
+                                    <MetricCard
                                         icon={DollarSign}
                                         title="Valor Promedio Contrato"
                                         value={formatCurrency(supplier.avgContractValue)}
@@ -153,18 +160,15 @@ const SupplierSearchPage = () => {
                                     />
                                     <MetricCard
                                         icon={Users}
-                                        title="Compradores Únicos"
-                                        value={supplier.uniqueBuyers}
+                                        title="Cantidad Total de contratos"
+                                        value={supplier.totalAwards}
                                         bgColor="bg-yellow-50"
                                         textColor="text-yellow-700"
                                     />
-                                    <MetricCard
-                                        icon={Clock}
-                                        title="% Adjudicaciones Rápidas"
-                                        value={`${supplier.quickAwardRatio}%`}
-                                        bgColor="bg-green-50"
-                                        textColor="text-green-700"
-                                    />
+
+
+
+
                                 </CardContent>
                             </Card>
                         </motion.div>
@@ -172,33 +176,7 @@ const SupplierSearchPage = () => {
                 </div>
             )}
 
-            {selectedSupplier && (
-                <div className="mt-8 p-6 bg-white shadow-lg rounded-lg">
-                    <h2 className="text-2xl font-bold text-gray-800 mb-4">Detalles del Proveedor Seleccionado</h2>
-                    <div className="grid grid-cols-2 gap-4">
-                        <div>
-                            <p className="text-sm font-medium text-gray-600">Nombre</p>
-                            <p className="text-lg font-semibold text-gray-800">{selectedSupplier.name}</p>
-                        </div>
-                        <div>
-                            <p className="text-sm font-medium text-gray-600">RUC</p>
-                            <p className="text-lg font-semibold text-gray-800">{selectedSupplier.ruc || "No disponible"}</p>
-                        </div>
-                        <div>
-                            <p className="text-sm font-medium text-gray-600">Total Adjudicaciones</p>
-                            <p className="text-lg font-semibold text-gray-800">{selectedSupplier.totalAwards}</p>
-                        </div>
-                        <div>
-                            <p className="text-sm font-medium text-gray-600">% Adjudicaciones Rápidas</p>
-                            <p className="text-lg font-semibold text-gray-800">{selectedSupplier.quickAwardRatio}%</p>
-                        </div>
-                        <div className="col-span-2">
-                            <p className="text-sm font-medium text-gray-600">Valor Promedio Contrato</p>
-                            <p className="text-lg font-semibold text-gray-800">{formatCurrency(selectedSupplier.avgContractValue)}</p>
-                        </div>
-                    </div>
-                </div>
-            )}
+
         </div>
     );
 };
